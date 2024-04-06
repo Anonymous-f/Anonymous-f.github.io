@@ -67,7 +67,7 @@ Publications
 <br><br><br>
 
 <div class="publication">
-  <img src="./images/OSCAR.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
+  <img src="./images/OSCAR.jpg" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
   
   <span style="color: lightblue;">[IEEE TGRS 2022]</span> Algorithm/hardware codesign for real-time on-satellite CNN-based ship detection in SAR imagery. Geng Yang, Jie   Lei, Weiying Xie, Zhenman Fang, Yunsong Li, Jiaxuan Wang, <strong>Xin Zhang</strong>.
 </div>
