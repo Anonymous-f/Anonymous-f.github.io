@@ -21,7 +21,7 @@ Publications
 <div class="publication1">
   <img src="./images/TDDS.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
   
-  <span style="color: lightblue;">[CVPR 2024]</span> Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. <strong>Xin Zhang</strong>, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou. [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC) [Codes](https://github.com/zhangxin-xd/Dataset-Pruning-TDDS)
+  <span style="color: lightblue;">[CVPR 2024]</span> Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. <strong>Xin Zhang</strong>, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou. 
 </div>
 
 <br><br><br>
@@ -29,7 +29,7 @@ Publications
 <div class="publication2">
   <img src="./images/BPL.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
   
-  <span style="color: lightblue;">[IEEE TNNLS 2023]</span> Block-Wise Partner Learning for Model Compression. <strong>Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Kai Jiang, Leyuan Fang, Qian Du. [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC) [Codes](https://github.com/zhangxin-xd/Dataset-Pruning-TDDS)
+  <span style="color: lightblue;">[IEEE TNNLS 2023]</span> Block-Wise Partner Learning for Model Compression. <strong>Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Kai Jiang, Leyuan Fang, Qian Du. 
 </div>
 
 <br><br><br>
@@ -37,7 +37,7 @@ Publications
 <div class="publication">
   <img src="./images/REAF.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
   
-  <span style="color: lightblue;">[IEEE TIP 2023]</span> Reaf: Remembering enhancement and entropy-based asymptotic forgetting for filter pruning. <strong>Xin Zhang</strong>, Weiying Xie, Yunsong Li, Kai Jiang, Leyuan Fang. [Paper](https://ieeexplore.ieee.org/abstract/document/9622118/) 
+  <span style="color: lightblue;">[IEEE TIP 2023]</span> Reaf: Remembering enhancement and entropy-based asymptotic forgetting for filter pruning. <strong>Xin Zhang</strong>, Weiying Xie, Yunsong Li, Kai Jiang, Leyuan Fang. 
 </div>
 
 <br><br><br>
@@ -45,7 +45,7 @@ Publications
 <div class="publication">
   <img src="./images/MDMN.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
   
-  <span style="color: lightblue;">[IEEE TGRS 2023]</span> A Model-Driven Deep Mixture Network for Robust Hyperspectral Anomaly Detection. Yunsong Li, Kai Jiang, Weiying Xie, Jie Lei, <strong>Xin Zhang</strong>, Qian Du. [Paper](https://ieeexplore.ieee.org/abstract/document/10234436) 
+  <span style="color: lightblue;">[IEEE TGRS 2023]</span> A Model-Driven Deep Mixture Network for Robust Hyperspectral Anomaly Detection. Yunsong Li, Kai Jiang, Weiying Xie, Jie Lei, <strong>Xin Zhang</strong>, Qian Du.
 </div>
 
 <br><br><br>
