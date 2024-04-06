@@ -31,8 +31,11 @@ Publications
 </div>
 
 
-
-**[IEEE TIP 2023]** Reaf: Remembering enhancement and entropy-based asymptotic forgetting for filter pruning. **Xin Zhang**, Weiying Xie, Yunsong Li, Kai Jiang, Leyuan Fang.
+<div class="publication">
+  <img src="./publication_img/REAF.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
+  
+  **[IEEE TIP 2023]** Reaf: Remembering enhancement and entropy-based asymptotic forgetting for filter pruning. **Xin Zhang**, Weiying Xie, Yunsong Li, Kai Jiang, Leyuan Fang.
+</div>
 
 **[IEEE TGRS 2023]** A Model-Driven Deep Mixture Network for Robust Hyperspectral Anomaly Detection. Yunsong Li, Kai Jiang, Weiying Xie, Jie Lei, **Xin Zhang**, Qian Du
 
