@@ -10,8 +10,7 @@ redirect_from:
 My research interests span efficient deep learning, machine learning, and computer vision. Specifically, I am interested in model compression for computer vision models (CNN, ViT), knowledge distillation to both models and datasets, and general CV tasks (foundational model training and downstream applications).
 
 
-<font color=red>News!</font>
-
+News!
 ======
 [2024.2] One paper is accepted by CVPR! [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC) [Codes](https://github.com/zhangxin-xd/Dataset-Pruning-TDDS)
 
@@ -19,7 +18,7 @@ My research interests span efficient deep learning, machine learning, and comput
 
 Publications
 ======
-**[CVPR 2024]** Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. **Xin Zhang**, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou.
+**[CVPR 2024]** Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. **Xin Zhang**, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou. (images/WechatIMG145.jpg)
 
 **[IEEE TNNLS 2023]** Block-Wise Partner Learning for Model Compression. **Xin Zhang**, Weiying Xie, Yunsong Li, Jie Lei, Kai Jiang, Leyuan Fang, Qian Du.
 
