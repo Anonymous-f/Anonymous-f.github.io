@@ -24,9 +24,13 @@ Publications
   **[CVPR 2024]** Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. **Xin Zhang**, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou.
 </div>
 
-
-
+<div class="publication">
+  <img src="./publication_img/BPL.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
+  
 **[IEEE TNNLS 2023]** Block-Wise Partner Learning for Model Compression. **Xin Zhang**, Weiying Xie, Yunsong Li, Jie Lei, Kai Jiang, Leyuan Fang, Qian Du.
+</div>
+
+
 
 **[IEEE TIP 2023]** Reaf: Remembering enhancement and entropy-based asymptotic forgetting for filter pruning. **Xin Zhang**, Weiying Xie, Yunsong Li, Kai Jiang, Leyuan Fang.
 
