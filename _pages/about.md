@@ -44,7 +44,7 @@ Publications
 </div>
 
 <div class="publication">
-  <img src="publication_img/REAF.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
+  <img src="publication_img/RGAN.jpg" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
   
   **[IEEE TGRS 2022]** Rank-aware generative adversarial network for hyperspectral band selection. **Xin Zhang**, Weiying Xie, Yunsong Li, Jie Lei, Qian Du, Geng Yang.
 </div>
@@ -62,19 +62,19 @@ Publications
 </div>
 
 <div class="publication">
-  <img src="publication_img/REAF.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
+  <img src="publication_img/LRMF.jpg" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
   
   **[IEEE TC 2021]** Filter pruning via learned representation median in the frequency domain. **Xin Zhang**, Weiying Xie, Yunsong Li, Jie Lei, Qian Du.
 </div>
 
 <div class="publication">
-  <img src="publication_img/REAF.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
+  <img src="publication_img/WSLRR.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
   
   **[IEEE TC 2021]** Weakly supervised low-rank representation for hyperspectral anomaly detection. Weiying Xie, **Xin Zhang**, Yunsong Li, Jie Lei, Jiaojiao Li, Qian Du.
 </div>
 
 <div class="publication">
-  <img src="publication_img/REAF.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
+  <img src="publication_img/DBLP.jpg" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
   
   **[IEEE Jstar 2020]** Background learning based on target suppression constraint for hyperspectral target detection. Weiying Xie, **Xin Zhang**, Yunsong Li, Keyan Wang, Qian Du.
 </div>
