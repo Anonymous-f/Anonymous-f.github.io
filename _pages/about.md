@@ -21,7 +21,7 @@ Publications
 <div class="publication1">
   <img src="./images/TDDS.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
   
-  <strong>[CVPR 2024]</strong> Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. **Xin Zhang**, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou.
+  <span style="color: blue;">[CVPR 2024]</span> Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. <strong>Xin Zhang</strong>, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou.
 </div>
 
 <br><br><br><br>
