@@ -24,7 +24,7 @@ Publications
   <strong>[CVPR 2024]</strong> Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. **Xin Zhang**, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou.
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <div class="publication2">
   <img src="./images/BPL.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
@@ -32,7 +32,7 @@ Publications
   **[IEEE TNNLS 2023]** Block-Wise Partner Learning for Model Compression. **Xin Zhang**, Weiying Xie, Yunsong Li, Jie Lei, Kai Jiang, Leyuan Fang, Qian Du.
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <div class="publication">
   <img src="./images/REAF.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
@@ -40,7 +40,7 @@ Publications
   **[IEEE TIP 2023]** Reaf: Remembering enhancement and entropy-based asymptotic forgetting for filter pruning. **Xin Zhang**, Weiying Xie, Yunsong Li, Kai Jiang, Leyuan Fang.
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <div class="publication">
   <img src="./images/REAF.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
@@ -48,7 +48,7 @@ Publications
   **[IEEE TGRS 2023]** A Model-Driven Deep Mixture Network for Robust Hyperspectral Anomaly Detection. Yunsong Li, Kai Jiang, Weiying Xie, Jie Lei, **Xin Zhang**, Qian Du
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <div class="publication">
   <img src="./images/RGAN.jpg" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
@@ -56,7 +56,7 @@ Publications
   **[IEEE TGRS 2022]** Rank-aware generative adversarial network for hyperspectral band selection. **Xin Zhang**, Weiying Xie, Yunsong Li, Jie Lei, Qian Du, Geng Yang.
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <div class="publication">
   <img src="./images/REAF.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
@@ -64,7 +64,7 @@ Publications
   **[IEEE TGRS 2023]** Co-compression via superior gene for remote sensing scene classification. Weiying Xie, Xiaoyi Fan, **Xin Zhang**, Yunsong Li, Min Sheng, Leyuan Fang.
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <div class="publication">
   <img src="./images/REAF.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
@@ -72,7 +72,7 @@ Publications
   **[IEEE TGRS 2022]** Algorithm/hardware codesign for real-time on-satellite CNN-based ship detection in SAR imagery. Geng Yang, Jie   Lei, Weiying Xie, Zhenman Fang, Yunsong Li, Jiaxuan Wang, **Xin Zhang**.
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <div class="publication">
   <img src="./images/LRMF.jpg" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
@@ -80,7 +80,7 @@ Publications
   **[IEEE TC 2021]** Filter pruning via learned representation median in the frequency domain. **Xin Zhang**, Weiying Xie, Yunsong Li, Jie Lei, Qian Du.
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <div class="publication">
   <img src="./images/WSLRR.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
@@ -88,7 +88,7 @@ Publications
   **[IEEE TC 2021]** Weakly supervised low-rank representation for hyperspectral anomaly detection. Weiying Xie, **Xin Zhang**, Yunsong Li, Jie Lei, Jiaojiao Li, Qian Du.
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <div class="publication">
   <img src="./images/DBLP.jpg" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
