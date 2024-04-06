@@ -59,7 +59,7 @@ Publications
 <br><br><br>
 
 <div class="publication">
-  <img src="./images/REAF.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
+  <img src="./images/ccsg.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
   
   <span style="color: lightblue;">[IEEE TGRS 2023]</span> Co-compression via superior gene for remote sensing scene classification. Weiying Xie, Xiaoyi Fan, <strong>Xin Zhang</strong>, Yunsong Li, Min Sheng, Leyuan Fang.
 </div>
