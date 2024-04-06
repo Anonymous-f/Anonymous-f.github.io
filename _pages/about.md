@@ -25,10 +25,9 @@ Publications
 </div>
 
 <div class="publication">
-  <div style="font-weight: bold;">
   <img src="./publication_img/BPL.png" alt="Publication Image" align="left" style="margin-right: 10px; margin-bottom: 10；pxmax-width: 150px; max-height: 150px;">
   
-**[IEEE TNNLS 2023]** Block-Wise Partner Learning for Model Compression. **Xin Zhang**, Weiying Xie, Yunsong Li, Jie Lei, Kai Jiang, Leyuan Fang, Qian Du.
+  **[IEEE TNNLS 2023]** Block-Wise Partner Learning for Model Compression. **Xin Zhang**, Weiying Xie, Yunsong Li, Jie Lei, Kai Jiang, Leyuan Fang, Qian Du.
 </div>
 
 
